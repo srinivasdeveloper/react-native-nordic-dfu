@@ -18,7 +18,6 @@ or
 
 ```bash
  yarn add https://github.com/srinivasdeveloper/react-native-nordic-dfu
-yarn add react-native-nordic-dfu
 ```
 
 For React Native below 60.0 version
